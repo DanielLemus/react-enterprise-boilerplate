@@ -23,7 +23,7 @@ const Login: React.FC = () => {
     // Mock login - replace with real authentication
     const mockUser = {
       id: '1',
-      email: 'david.lemus@infosis.org',
+      email: '',
       firstName: 'John',
       lastName: 'Doe',
       role: 'admin' as any,
