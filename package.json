@@ -20,7 +20,7 @@
     "zustand": "^4.4.7",
     "@xstate/react": "^3.2.2",
     "xstate": "^4.38.3",
-    "axios": "^1.6.2",
+    "axios": "^1.13.5",
     "date-fns": "^2.30.0",
     "lodash": "^4.17.21",
     "react-helmet-async": "^2.0.4",
